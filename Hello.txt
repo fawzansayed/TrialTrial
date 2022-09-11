@@ -1,0 +1,2 @@
+Hey, this is my first appempt at Git!
+Hope all goes well
